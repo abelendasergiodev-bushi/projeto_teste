@@ -9,3 +9,5 @@ $dataAtual = date('d/m/Y');
 echo "Data do servidor: " . $dataAtual . "<br>";
 echo "Hora do servidor: " . $horaAtual;
 ?>
+// feito na hora!  
+// Falta algo? 
